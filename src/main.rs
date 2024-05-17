@@ -15,7 +15,8 @@ fn main() {
     // module::test_use_keyword()
     // crates::satu::dua::say_hello()
 
-    traits::test_trait()
+    traits::test_trait();
+    traits::test_hello_om();
     
    
 }
