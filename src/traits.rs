@@ -58,6 +58,7 @@ pub fn test_trait(){
 }
 
 // ========================================================================
+//  TRAIT DEFAULT VALUE IMPLEMENTATION
 /* Trait juga dapat memiliki default implementaion atau memiliki return value seperti pada method */
 /* Example */
 
