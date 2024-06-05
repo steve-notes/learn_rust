@@ -98,25 +98,3 @@ pub fn test_hello_om() {
 - jika kita ingin tipe data reference, kita bisa gunakan `&impl NamaTrait`
 */ 
 // Example
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
